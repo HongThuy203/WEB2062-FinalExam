@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "iPhone X",
+      "cat": "1",
+      "brand": "Banana Phone",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "xiaoMi",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "samsung",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "asus",
+      "cat": "1",
+      "brand": "undefined",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "xiaoMi 66",
+      "cat": "3",
+      "brand": "Banana Phone",
+      "image": ""
+    }
+  ]
+}

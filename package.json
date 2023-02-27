@@ -1,0 +1,15 @@
+{
+  "name": "web2062-finalexam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "navigo": "^8.11.1",
+    "yup": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
